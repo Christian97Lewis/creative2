@@ -48,6 +48,16 @@
 }
 
 #currencyResults img {
-  width: 150px;
+  width: 80px;
   border: 1px solid #e6e6e6;
+}
+
+p {
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+
+.p-small {
+  font-size: 20px;
+  margin-bottom: 5px;
 }
